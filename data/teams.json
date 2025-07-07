@@ -1,0 +1,46 @@
+{
+    "Pot 1": [
+        {"name": "Real Madrid", "country": "ESP"},
+        {"name": "Man City", "country": "ENG"},
+        {"name": "Bayern", "country": "GER"},
+        {"name": "Liverpool", "country": "ENG"},
+        {"name": "Paris SG", "country": "FRA"},
+        {"name": "Internazionale", "country": "ITA"},
+        {"name": "Chelsea", "country": "ENG"},
+        {"name": "Dortmund", "country": "GER"},
+        {"name": "Barcelona", "country": "ESP"}
+    ],
+    "Pot 2": [
+        {"name": "Arsenal", "country": "ENG"},
+        {"name": "Leverkusen", "country": "GER"},
+        {"name": "Atlético", "country": "ESP"},
+        {"name": "Benfica", "country": "POR"},
+        {"name": "Atalanta", "country": "ITA"},
+        {"name": "Villarreal", "country": "ESP"},
+        {"name": "Juventus", "country": "ITA"},
+        {"name": "Frankfurt", "country": "GER"},
+        {"name": "Club Brugge", "country": "BEL"}
+    ],
+    "Pot 3": [
+        {"name": "Tottenham", "country": "ENG"},
+        {"name": "PSV", "country": "NED"},
+        {"name": "Ajax", "country": "NED"},
+        {"name": "Napoli", "country": "ITA"},
+        {"name": "Sporting CP", "country": "POR"},
+        {"name": "Olympiacos", "country": "GRE"},
+        {"name": "Slavia", "country": "CZE"},
+        {"name": "Bodø/Glimt", "country": "NOR"},
+        {"name": "Marseille", "country": "FRA"}
+    ],
+    "Pot 4": [
+        {"name": "København", "country": "DEN"},
+        {"name": "Crvena zvezda", "country": "SRB"},
+        {"name": "Monaco", "country": "FRA"},
+        {"name": "Ferencváros", "country": "HUN"},
+        {"name": "Galatasaray", "country": "TUR"},
+        {"name": "Celtic", "country": "SCO"},
+        {"name": "Union SG", "country": "BEL"},
+        {"name": "Athletic", "country": "ESP"},
+        {"name": "Newcastle", "country": "ENG"}
+    ]
+}
