@@ -3,12 +3,14 @@
 from pydantic import BaseModel
 from typing import List
 
-# Bir haftadaki tek bir maçı temsil eder
-class FixtureMatch(BaseModel):
-    home_team: str
-    away_team: str
+# Bir takımın yapacağı tek bir maçı temsil eden model
+class Match(BaseModel):
+    opponent_name: str
+    location: str # 'home' ya da 'away'
 
-# Bir maç haftasını temsil eder
-class MatchWeek(BaseModel):
-    week: int
-    matches: List[FixtureMatch]
+
+# API'den dönecek olan kura sonucunu temsil eden model
+class DrawResult(BaseModel):
+    team_name: str
+    pot: int
+    matches: List[Match]

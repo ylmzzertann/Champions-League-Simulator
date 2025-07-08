@@ -1,8 +1,8 @@
 # main.py
 
 from fastapi import FastAPI
-from logic.draw_logic import create_full_fixture
-from models.team_models import MatchWeek
+from logic.draw_logic import create_draw
+from models.team_models import DrawResult
 from typing import List
 
 app = FastAPI(
@@ -10,17 +10,19 @@ app = FastAPI(
     description="Yeni format Şampiyonlar Ligi kura çekimi ve simülasyonu."
 )
 
-@app.get("/generate-fixture", response_model=List[MatchWeek], tags=["Fixture"])
-def generate_new_fixture():
+@app.get("/generate-draw", response_model=List[DrawResult], tags=["Draw"])
+def generate_new_draw():
     """
-    Önce lig aşaması kurasını çeker, ardından 8 haftalık tam fikstürü oluşturur.
+    Yeni Şampiyonlar Ligi formatına göre 36 takım için 8'er maçlık
+    lig aşaması kurasını çeker ve eşleşmeleri döndürür.
     """
-    full_fixture = create_full_fixture()
-    return full_fixture
+    draw_results = create_draw()
+    return draw_results
+
 
 @app.get("/", tags=["Root"])
 def read_root():
     """
     API'nin çalıştığını gösteren başlangıç mesajı.
     """
-    return {"message": "Champions League Simulator API'sine hoş geldiniz! Fikstür oluşturmak için /docs adresine gidin."}
+    return {"message": "Champions League Simulator API'sine hoş geldiniz! Kura çekimi için /docs adresine gidin."}
