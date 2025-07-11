@@ -91,7 +91,7 @@
     {"name": "ST", "position": "FV", "overall": 93, "offense": 96, "defense": 50}
   ],
   "Chelsea": [
-    {"name": "GK", "position": "KL", "overall": 89, "offense": 40, "defense": 90},
+    {"name": "Robert Sánchez", "position": "KL", "overall": 89, "offense": 40, "defense": 90},
     {"name": "RB", "position": "DF", "overall": 86, "offense": 80, "defense": 85},
     {"name": "CB1", "position": "DF", "overall": 88, "offense": 65, "defense": 90},
     {"name": "CB2", "position": "DF", "overall": 87, "offense": 68, "defense": 88},
