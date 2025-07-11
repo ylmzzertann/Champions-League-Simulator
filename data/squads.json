@@ -1,30 +1,18 @@
 {
   "Real Madrid": [
-    {"name": "Courtois", "position": "KL", "overall": 91, "offense": 40, "defense": 91},
-    {"name": "Carvajal", "position": "DF", "overall": 85, "offense": 78, "defense": 84},
+    {"name": "Courtois", "position": "KL", "overall": 89, "offense": 40, "defense": 91},
+    {"name": "Carvajal", "position": "DF", "overall": 84, "offense": 78, "defense": 84},
     {"name": "Rüdiger", "position": "DF", "overall": 87, "offense": 60, "defense": 89},
-    {"name": "Militão", "position": "DF", "overall": 88, "offense": 65, "defense": 88},
-    {"name": "Mendy", "position": "DF", "overall": 84, "offense": 75, "defense": 83},
-    {"name": "Tchouaméni", "position": "OS", "overall": 88, "offense": 78, "defense": 89},
-    {"name": "Valverde", "position": "OS", "overall": 90, "offense": 88, "defense": 80},
-    {"name": "Bellingham", "position": "OS", "overall": 92, "offense": 92, "defense": 82},
-    {"name": "Vinícius Jr.", "position": "FV", "overall": 96, "offense": 96, "defense": 45},
-    {"name": "Rodrygo", "position": "FV", "overall": 87, "offense": 88, "defense": 50},
-    {"name": "Mbappé", "position": "FV", "overall": 94, "offense": 97, "defense": 48}
+    {"name": "Militão", "position": "DF", "overall": 84, "offense": 65, "defense": 88},
+    {"name": "Mendy", "position": "DF", "overall": 82, "offense": 75, "defense": 83},
+    {"name": "Tchouaméni", "position": "OS", "overall": 85, "offense": 78, "defense": 89},
+    {"name": "Valverde", "position": "OS", "overall": 86, "offense": 88, "defense": 80},
+    {"name": "Bellingham", "position": "OS", "overall": 88, "offense": 92, "defense": 82},
+    {"name": "Vinícius Jr.", "position": "FV", "overall": 89, "offense": 96, "defense": 45},
+    {"name": "Rodrygo", "position": "FV", "overall": 85, "offense": 88, "defense": 50},
+    {"name": "Mbappé", "position": "FV", "overall": 91, "offense": 97, "defense": 48}
   ],
-  "Galatasaray": [
-    {"name": "Muslera", "position": "KL", "overall": 81, "offense": 30, "defense": 81},
-    {"name": "Köhn", "position": "DF", "overall": 77, "offense": 75, "defense": 74},
-    {"name": "Sánchez", "position": "DF", "overall": 79, "offense": 62, "defense": 80},
-    {"name": "Nelsson", "position": "DF", "overall": 80, "offense": 60, "defense": 81},
-    {"name": "Ayhan", "position": "DF", "overall": 77, "offense": 70, "defense": 78},
-    {"name": "Torreira", "position": "OS", "overall": 84, "offense": 75, "defense": 88},
-    {"name": "Demirbay", "position": "OS", "overall": 80, "offense": 81, "defense": 72},
-    {"name": "Ziyech", "position": "OS", "overall": 82, "offense": 84, "defense": 55},
-    {"name": "Aktürkoğlu", "position": "FV", "overall": 80, "offense": 84, "defense": 50},
-    {"name": "B. Yılmaz", "position": "FV", "overall": 81, "offense": 83, "defense": 65},
-    {"name": "Icardi", "position": "FV", "overall": 86, "offense": 90, "defense": 45}
-  ],
+  
   "Man City": [
     {"name": "Ederson", "position": "KL", "overall": 89, "offense": 40, "defense": 90},
     {"name": "Matheus Nunes", "position": "DF", "overall": 86, "offense": 80, "defense": 85},
@@ -54,28 +42,28 @@
   "Liverpool": [
     {"name": "Alisson", "position": "KL", "overall": 89, "offense": 40, "defense": 90},
     {"name": "T. Alexander-Arnold", "position": "DF", "overall": 86, "offense": 80, "defense": 85},
-    {"name": "I. Konaté", "position": "DF", "overall": 88, "offense": 65, "defense": 90},
-    {"name": "V. van Dijk", "position": "DF", "overall": 87, "offense": 68, "defense": 88},
-    {"name": "A. Robertson", "position": "DF", "overall": 85, "offense": 79, "defense": 84},
-    {"name": "R. Gravenberch", "position": "OS", "overall": 88, "offense": 82, "defense": 89},
-    {"name": "D. Szoboszlai", "position": "OS", "overall": 90, "offense": 91, "defense": 78},
-    {"name": "A. Mac Allister", "position": "OS", "overall": 92, "offense": 93, "defense": 80},
-    {"name": "M. Salah", "position": "FV", "overall": 88, "offense": 89, "defense": 60},
-    {"name": "C. Gakpo", "position": "FV", "overall": 89, "offense": 90, "defense": 58},
-    {"name": "D. Núñez", "position": "FV", "overall": 93, "offense": 96, "defense": 50}
+    {"name": "I. Konaté", "position": "DF", "overall": 86, "offense": 65, "defense": 90},
+    {"name": "V. van Dijk", "position": "DF", "overall": 89, "offense": 68, "defense": 88},
+    {"name": "A. Robertson", "position": "DF", "overall": 83, "offense": 79, "defense": 84},
+    {"name": "R. Gravenberch", "position": "OS", "overall": 85, "offense": 82, "defense": 89},
+    {"name": "D. Szoboszlai", "position": "OS", "overall": 85, "offense": 91, "defense": 78},
+    {"name": "A. Mac Allister", "position": "OS", "overall": 85, "offense": 93, "defense": 80},
+    {"name": "M. Salah", "position": "FV", "overall": 90, "offense": 89, "defense": 60},
+    {"name": "C. Gakpo", "position": "FV", "overall": 88, "offense": 90, "defense": 58},
+    {"name": "D. Núñez", "position": "FV", "overall": 84, "offense": 96, "defense": 50}
   ],
   "Paris SG": [
     {"name": "G. Donnarumma", "position": "KL", "overall": 89, "offense": 40, "defense": 90},
-    {"name": "A. Hakimi", "position": "DF", "overall": 86, "offense": 80, "defense": 85},
-    {"name": "Marquinhos", "position": "DF", "overall": 88, "offense": 65, "defense": 90},
-    {"name": "W. Pacho", "position": "DF", "overall": 87, "offense": 68, "defense": 88},
-    {"name": "Nuno Mendes", "position": "DF", "overall": 85, "offense": 79, "defense": 84},
-    {"name": "João Neves", "position": "OS", "overall": 88, "offense": 82, "defense": 89},
-    {"name": "Vitinha", "position": "OS", "overall": 90, "offense": 91, "defense": 78},
-    {"name": "Fabián Ruiz", "position": "OS", "overall": 92, "offense": 93, "defense": 80},
+    {"name": "A. Hakimi", "position": "DF", "overall": 88, "offense": 80, "defense": 85},
+    {"name": "Marquinhos", "position": "DF", "overall": 87, "offense": 65, "defense": 90},
+    {"name": "W. Pacho", "position": "DF", "overall": 83, "offense": 68, "defense": 88},
+    {"name": "Nuno Mendes", "position": "DF", "overall": 86, "offense": 79, "defense": 84},
+    {"name": "João Neves", "position": "OS", "overall": 85, "offense": 82, "defense": 89},
+    {"name": "Vitinha", "position": "OS", "overall": 88, "offense": 91, "defense": 78},
+    {"name": "Fabián Ruiz", "position": "OS", "overall": 87, "offense": 93, "defense": 80},
     {"name": "O. Dembélé", "position": "FV", "overall": 88, "offense": 89, "defense": 60},
-    {"name": "K. Kvaratskhelia", "position": "FV", "overall": 89, "offense": 90, "defense": 58},
-    {"name": "D. Doué", "position": "FV", "overall": 93, "offense": 96, "defense": 50}
+    {"name": "K. Kvaratskhelia", "position": "FV", "overall": 88, "offense": 90, "defense": 58},
+    {"name": "D. Doué", "position": "FV", "overall": 84, "offense": 96, "defense": 50}
   ],
   "Internazionale": [
     {"name": "Y. Sommer", "position": "KL", "overall": 89, "offense": 40, "defense": 90},
@@ -91,17 +79,17 @@
     {"name": "L. Martínez", "position": "FV", "overall": 93, "offense": 96, "defense": 50}
   ],
   "Chelsea": [
-    {"name": "Robert Sánchez", "position": "KL", "overall": 89, "offense": 40, "defense": 90},
-    {"name": "M. Gusto", "position": "DF", "overall": 86, "offense": 80, "defense": 85},
-    {"name": "T. Chalobah", "position": "DF", "overall": 88, "offense": 65, "defense": 90},
-    {"name": "L. Colwill", "position": "DF", "overall": 87, "offense": 68, "defense": 88},
-    {"name": "Marc Cucurella", "position": "DF", "overall": 85, "offense": 79, "defense": 84},
-    {"name": "CM. Caicedo", "position": "OS", "overall": 88, "offense": 82, "defense": 89},
-    {"name": "E. Fernández", "position": "OS", "overall": 90, "offense": 91, "defense": 78},
-    {"name": "C. Palmer", "position": "OS", "overall": 92, "offense": 93, "defense": 80},
-    {"name": "N. Madueke", "position": "FV", "overall": 88, "offense": 89, "defense": 60},
-    {"name": "Pedro Neto", "position": "FV", "overall": 89, "offense": 90, "defense": 58},
-    {"name": "N. Jackson", "position": "FV", "overall": 93, "offense": 96, "defense": 50}
+    {"name": "Robert Sánchez", "position": "KL", "overall": 80, "offense": 40, "defense": 90},
+    {"name": "M. Gusto", "position": "DF", "overall": 82, "offense": 80, "defense": 85},
+    {"name": "T. Chalobah", "position": "DF", "overall": 80, "offense": 65, "defense": 90},
+    {"name": "L. Colwill", "position": "DF", "overall": 82, "offense": 68, "defense": 88},
+    {"name": "Marc Cucurella", "position": "DF", "overall": 83, "offense": 79, "defense": 84},
+    {"name": "M. Caicedo", "position": "OS", "overall": 86, "offense": 82, "defense": 89},
+    {"name": "E. Fernández", "position": "OS", "overall": 85, "offense": 91, "defense": 78},
+    {"name": "C. Palmer", "position": "OS", "overall": 89, "offense": 93, "defense": 80},
+    {"name": "N. Madueke", "position": "FV", "overall": 82, "offense": 89, "defense": 60},
+    {"name": "Pedro Neto", "position": "FV", "overall": 80, "offense": 90, "defense": 58},
+    {"name": "N. Jackson", "position": "FV", "overall": 83, "offense": 96, "defense": 50}
   ],
   "Dortmund": [
     {"name": "G. Kobel", "position": "KL", "overall": 89, "offense": 40, "defense": 90},
@@ -132,15 +120,15 @@
   "Arsenal": [
     {"name": "David Raya", "position": "KL", "overall": 86, "offense": 38, "defense": 86},
     {"name": "J. Timber", "position": "DF", "overall": 84, "offense": 77, "defense": 83},
-    {"name": "W. Saliba", "position": "DF", "overall": 85, "offense": 62, "defense": 86},
-    {"name": "J. Kiwior", "position": "DF", "overall": 84, "offense": 64, "defense": 85},
-    {"name": "M. Lewis-Skelly", "position": "DF", "overall": 83, "offense": 78, "defense": 82},
-    {"name": "T. Partey", "position": "OS", "overall": 85, "offense": 78, "defense": 86},
-    {"name": "M. Ødegaard", "position": "OS", "overall": 87, "offense": 88, "defense": 75},
-    {"name": "D. Rice", "position": "OS", "overall": 86, "offense": 87, "defense": 77},
-    {"name": "B. Saka", "position": "FV", "overall": 86, "offense": 87, "defense": 58},
+    {"name": "W. Saliba", "position": "DF", "overall": 86, "offense": 62, "defense": 86},
+    {"name": "J. Kiwior", "position": "DF", "overall": 78, "offense": 64, "defense": 85},
+    {"name": "M. Lewis-Skelly", "position": "DF", "overall": 78, "offense": 78, "defense": 82},
+    {"name": "T. Partey", "position": "OS", "overall": 83, "offense": 78, "defense": 86},
+    {"name": "M. Ødegaard", "position": "OS", "overall": 86, "offense": 88, "defense": 75},
+    {"name": "D. Rice", "position": "OS", "overall": 87, "offense": 87, "defense": 77},
+    {"name": "B. Saka", "position": "FV", "overall": 87, "offense": 87, "defense": 58},
     {"name": "Gabriel Martinelli", "position": "FV", "overall": 85, "offense": 86, "defense": 55},
-    {"name": "L. Trossard", "position": "FV", "overall": 87, "offense": 90, "defense": 48}
+    {"name": "L. Trossard", "position": "FV", "overall": 83, "offense": 90, "defense": 48}
   ],
   "Leverkusen": [
     {"name": "L. Hrádecký", "position": "KL", "overall": 86, "offense": 38, "defense": 86},
@@ -248,16 +236,16 @@
   ],
   "Tottenham": [
     {"name": "G. Vicario", "position": "KL", "overall": 83, "offense": 35, "defense": 83},
-    {"name": "Pedro Porro", "position": "DF", "overall": 81, "offense": 74, "defense": 80},
-    {"name": "C. Romero", "position": "DF", "overall": 82, "offense": 60, "defense": 83},
-    {"name": "M. van de Ven", "position": "DF", "overall": 81, "offense": 62, "defense": 82},
+    {"name": "Pedro Porro", "position": "DF", "overall": 82, "offense": 74, "defense": 80},
+    {"name": "C. Romero", "position": "DF", "overall": 83, "offense": 60, "defense": 83},
+    {"name": "M. van de Ven", "position": "DF", "overall": 82, "offense": 62, "defense": 82},
     {"name": "D. Spence", "position": "DF", "overall": 80, "offense": 75, "defense": 79},
-    {"name": "R. Bentancur", "position": "OS", "overall": 82, "offense": 75, "defense": 83},
+    {"name": "R. Bentancur", "position": "OS", "overall": 81, "offense": 75, "defense": 83},
     {"name": "D. Kulusevski", "position": "OS", "overall": 84, "offense": 85, "defense": 72},
-    {"name": "J. Maddison", "position": "OS", "overall": 83, "offense": 84, "defense": 74},
-    {"name": "B. Johnson", "position": "FV", "overall": 83, "offense": 84, "defense": 55},
-    {"name": "H. Son", "position": "FV", "overall": 82, "offense": 83, "defense": 52},
-    {"name": "Richarlison", "position": "FV", "overall": 84, "offense": 87, "defense": 45}
+    {"name": "J. Maddison", "position": "OS", "overall": 82, "offense": 84, "defense": 74},
+    {"name": "B. Johnson", "position": "FV", "overall": 82, "offense": 84, "defense": 55},
+    {"name": "H. Son", "position": "FV", "overall": 85, "offense": 83, "defense": 52},
+    {"name": "Richarlison", "position": "FV", "overall": 80, "offense": 87, "defense": 45}
   ],
   "PSV": [
     {"name": "W. Benítez", "position": "KL", "overall": 83, "offense": 35, "defense": 83},
@@ -377,17 +365,17 @@
     {"name": "A. Cornelius", "position": "FV", "overall": 80, "offense": 83, "defense": 42}
   ],
   "Crvena zvezda": [
-    {"name": "GK", "position": "KL", "overall": 79, "offense": 32, "defense": 79},
-    {"name": "RB", "position": "DF", "overall": 77, "offense": 70, "defense": 76},
-    {"name": "CB1", "position": "DF", "overall": 78, "offense": 58, "defense": 79},
-    {"name": "CB2", "position": "DF", "overall": 77, "offense": 60, "defense": 78},
-    {"name": "LB", "position": "DF", "overall": 76, "offense": 72, "defense": 75},
-    {"name": "CDM", "position": "OS", "overall": 78, "offense": 72, "defense": 79},
-    {"name": "CM1", "position": "OS", "overall": 80, "offense": 81, "defense": 68},
-    {"name": "CM2", "position": "OS", "overall": 79, "offense": 80, "defense": 70},
-    {"name": "RW", "position": "FV", "overall": 79, "offense": 80, "defense": 52},
-    {"name": "LW", "position": "FV", "overall": 78, "offense": 79, "defense": 50},
-    {"name": "ST", "position": "FV", "overall": 80, "offense": 83, "defense": 42}
+    {"name": "M. Borjan", "position": "KL", "overall": 79, "offense": 32, "defense": 79},
+    {"name": "F. Stojković", "position": "DF", "overall": 77, "offense": 70, "defense": 76},
+    {"name": "S. Sanogo", "position": "DF", "overall": 78, "offense": 58, "defense": 79},
+    {"name": "M. Degenek", "position": "DF", "overall": 77, "offense": 60, "defense": 78},
+    {"name": "A. Terzić", "position": "DF", "overall": 76, "offense": 72, "defense": 75},
+    {"name": "José Cañas", "position": "OS", "overall": 78, "offense": 72, "defense": 79},
+    {"name": "N. Krstičić", "position": "OS", "overall": 80, "offense": 81, "defense": 68},
+    {"name": "Jonathan Cafú", "position": "OS", "overall": 79, "offense": 80, "defense": 70},
+    {"name": "N. Radonjić", "position": "OS", "overall": 79, "offense": 80, "defense": 52},
+    {"name": "M. Marin", "position": "FV", "overall": 78, "offense": 79, "defense": 50},
+    {"name": "N. Stojiljković", "position": "FV", "overall": 80, "offense": 83, "defense": 42}
   ],
   "Monaco": [
     {"name": "P. Köhn", "position": "KL", "overall": 79, "offense": 32, "defense": 79},
@@ -455,16 +443,29 @@
     {"name": "Guruzeta", "position": "FV", "overall": 80, "offense": 83, "defense": 42}
   ],
   "Newcastle": [
-    {"name": "GK", "position": "KL", "overall": 79, "offense": 32, "defense": 79},
-    {"name": "RB", "position": "DF", "overall": 77, "offense": 70, "defense": 76},
-    {"name": "CB1", "position": "DF", "overall": 78, "offense": 58, "defense": 79},
-    {"name": "CB2", "position": "DF", "overall": 77, "offense": 60, "defense": 78},
-    {"name": "LB", "position": "DF", "overall": 76, "offense": 72, "defense": 75},
-    {"name": "CDM", "position": "OS", "overall": 78, "offense": 72, "defense": 79},
-    {"name": "CM1", "position": "OS", "overall": 80, "offense": 81, "defense": 68},
-    {"name": "CM2", "position": "OS", "overall": 79, "offense": 80, "defense": 70},
-    {"name": "RW", "position": "FV", "overall": 79, "offense": 80, "defense": 52},
-    {"name": "LW", "position": "FV", "overall": 78, "offense": 79, "defense": 50},
-    {"name": "ST", "position": "FV", "overall": 80, "offense": 83, "defense": 42}
+    {"name": "N. Pope", "position": "KL", "overall": 79, "offense": 32, "defense": 79},
+    {"name": "K. Trippier", "position": "DF", "overall": 77, "offense": 70, "defense": 76},
+    {"name": "F. Schär", "position": "DF", "overall": 78, "offense": 58, "defense": 79},
+    {"name": "D. Burn", "position": "DF", "overall": 77, "offense": 60, "defense": 78},
+    {"name": "T. Livramento", "position": "DF", "overall": 76, "offense": 72, "defense": 75},
+    {"name": "S. Tonali", "position": "OS", "overall": 78, "offense": 72, "defense": 79},
+    {"name": "Bruno Guimarães", "position": "OS", "overall": 80, "offense": 81, "defense": 68},
+    {"name": "Joelinton", "position": "OS", "overall": 79, "offense": 80, "defense": 70},
+    {"name": "J. Murphy", "position": "FV", "overall": 79, "offense": 80, "defense": 52},
+    {"name": "A. Gordon", "position": "FV", "overall": 78, "offense": 79, "defense": 50},
+    {"name": "A. Isak", "position": "FV", "overall": 80, "offense": 83, "defense": 42}
+  ],
+  "Galatasaray": [
+    {"name": "F. Muslera", "position": "KL", "overall": 81, "offense": 30, "defense": 81},
+    {"name": "R. Sallai", "position": "DF", "overall": 77, "offense": 75, "defense": 74},
+    {"name": "Sánchez", "position": "DF", "overall": 79, "offense": 62, "defense": 80},
+    {"name": "A. Bardakcı", "position": "DF", "overall": 80, "offense": 60, "defense": 81},
+    {"name": "E. Elmalı", "position": "DF", "overall": 77, "offense": 70, "defense": 78},
+    {"name": "Torreira", "position": "OS", "overall": 84, "offense": 75, "defense": 88},
+    {"name": "M. Lemina", "position": "OS", "overall": 80, "offense": 81, "defense": 72},
+    {"name": "Gabriel Sara", "position": "OS", "overall": 82, "offense": 84, "defense": 55},
+    {"name": "Sane", "position": "FV", "overall": 80, "offense": 84, "defense": 50},
+    {"name": "Yunus", "position": "FV", "overall": 81, "offense": 83, "defense": 65},
+    {"name": "Osimhen", "position": "FV", "overall": 86, "offense": 90, "defense": 45}
   ]
 }
