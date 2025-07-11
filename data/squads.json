@@ -52,17 +52,17 @@
     {"name": "H. Kane", "position": "FV", "overall": 93, "offense": 96, "defense": 50}
   ],
   "Liverpool": [
-    {"name": "GK", "position": "KL", "overall": 89, "offense": 40, "defense": 90},
-    {"name": "RB", "position": "DF", "overall": 86, "offense": 80, "defense": 85},
-    {"name": "CB1", "position": "DF", "overall": 88, "offense": 65, "defense": 90},
-    {"name": "CB2", "position": "DF", "overall": 87, "offense": 68, "defense": 88},
-    {"name": "LB", "position": "DF", "overall": 85, "offense": 79, "defense": 84},
-    {"name": "CDM", "position": "OS", "overall": 88, "offense": 82, "defense": 89},
-    {"name": "CM1", "position": "OS", "overall": 90, "offense": 91, "defense": 78},
-    {"name": "CM2", "position": "OS", "overall": 92, "offense": 93, "defense": 80},
-    {"name": "RW", "position": "FV", "overall": 88, "offense": 89, "defense": 60},
-    {"name": "LW", "position": "FV", "overall": 89, "offense": 90, "defense": 58},
-    {"name": "ST", "position": "FV", "overall": 93, "offense": 96, "defense": 50}
+    {"name": "Alisson", "position": "KL", "overall": 89, "offense": 40, "defense": 90},
+    {"name": "T. Alexander-Arnold", "position": "DF", "overall": 86, "offense": 80, "defense": 85},
+    {"name": "I. Konaté", "position": "DF", "overall": 88, "offense": 65, "defense": 90},
+    {"name": "V. van Dijk", "position": "DF", "overall": 87, "offense": 68, "defense": 88},
+    {"name": "A. Robertson", "position": "DF", "overall": 85, "offense": 79, "defense": 84},
+    {"name": "R. Gravenberch", "position": "OS", "overall": 88, "offense": 82, "defense": 89},
+    {"name": "D. Szoboszlai", "position": "OS", "overall": 90, "offense": 91, "defense": 78},
+    {"name": "A. Mac Allister", "position": "OS", "overall": 92, "offense": 93, "defense": 80},
+    {"name": "M. Salah", "position": "FV", "overall": 88, "offense": 89, "defense": 60},
+    {"name": "C. Gakpo", "position": "FV", "overall": 89, "offense": 90, "defense": 58},
+    {"name": "D. Núñez", "position": "FV", "overall": 93, "offense": 96, "defense": 50}
   ],
   "Paris SG": [
     {"name": "GK", "position": "KL", "overall": 89, "offense": 40, "defense": 90},
