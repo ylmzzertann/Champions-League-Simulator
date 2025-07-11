@@ -1,0 +1,36 @@
+{
+  "Real Madrid": [
+    {"name": "Thibaut Courtois", "position": "KL", "power": 91},
+    {"name": "Florian Wirtz", "position": "OS", "power": 91},
+    {"name": "Éder Militão", "position": "DF", "power": 88},
+    {"name": "Antonio Rüdiger", "position": "DF", "power": 87},
+    {"name": "David Alaba", "position": "DF", "power": 85},
+    {"name": "Ferland Mendy", "position": "DF", "power": 84},
+    {"name": "Dani Carvajal", "position": "DF", "power": 84},
+    {"name": "Jude Bellingham", "position": "OS", "power": 93},
+    {"name": "Federico Valverde", "position": "OS", "power": 90},
+    {"name": "Aurélien Tchouaméni", "position": "OS", "power": 88},
+    {"name": "Eduardo Camavinga", "position": "OS", "power": 86},
+    {"name": "Arda Güler", "position": "OS", "power": 83},
+    {"name": "Vinícius Jr.", "position": "FV", "power": 96},
+    {"name": "Rodrygo", "position": "FV", "power": 87},
+    {"name": "Kylian Mbappé", "position": "FV", "power": 94},
+    {"name": "Endrick", "position": "FV", "power": 84}
+  ],
+  "Galatasaray": [
+    {"name": "Fernando Muslera", "position": "KL", "power": 81},
+    {"name": "Abdülkerim Bardakcı", "position": "DF", "power": 81},
+    {"name": "Victor Nelsson", "position": "DF", "power": 80},
+    {"name": "Davinson Sánchez", "position": "DF", "power": 79},
+    {"name": "Derrick Köhn", "position": "DF", "power": 78},
+    {"name": "Kaan Ayhan", "position": "DF", "power": 77},
+    {"name": "Orkun Kökçü", "position": "OS", "power": 84},
+    {"name": "Lucas Torreira", "position": "OS", "power": 84},
+    {"name": "Kerem Demirbay", "position": "OS", "power": 80},
+    {"name": "Yusuf Yazıcı", "position": "OS", "power": 80},
+    {"name": "Tetê", "position": "OS", "power": 78},
+    {"name": "Barış Alper Yılmaz", "position": "FV", "power": 81},
+    {"name": "Kerem Aktürkoğlu", "position": "FV", "power": 80},
+    {"name": "Mauro Icardi", "position": "FV", "power": 85}
+  ]
+}
