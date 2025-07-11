@@ -117,7 +117,7 @@
     {"name": "S. Guirassy", "position": "FV", "overall": 93, "offense": 96, "defense": 50}
   ],
   "Barcelona": [
-    {"name": "GK", "position": "KL", "overall": 89, "offense": 40, "defense": 90},
+    {"name": "W. Szczęsny", "position": "KL", "overall": 89, "offense": 40, "defense": 90},
     {"name": "J. Koundé", "position": "DF", "overall": 86, "offense": 80, "defense": 85},
     {"name": "Iñigo Martínez", "position": "DF", "overall": 88, "offense": 65, "defense": 90},
     {"name": "Pau Cubarsí", "position": "DF", "overall": 87, "offense": 68, "defense": 88},
@@ -130,17 +130,17 @@
     {"name": "R. Lewandowski", "position": "FV", "overall": 93, "offense": 96, "defense": 50}
   ],
   "Arsenal": [
-    {"name": "GK", "position": "KL", "overall": 86, "offense": 38, "defense": 86},
-    {"name": "RB", "position": "DF", "overall": 84, "offense": 77, "defense": 83},
-    {"name": "CB1", "position": "DF", "overall": 85, "offense": 62, "defense": 86},
-    {"name": "CB2", "position": "DF", "overall": 84, "offense": 64, "defense": 85},
-    {"name": "LB", "position": "DF", "overall": 83, "offense": 78, "defense": 82},
-    {"name": "CDM", "position": "OS", "overall": 85, "offense": 78, "defense": 86},
-    {"name": "CM1", "position": "OS", "overall": 87, "offense": 88, "defense": 75},
-    {"name": "CM2", "position": "OS", "overall": 86, "offense": 87, "defense": 77},
-    {"name": "RW", "position": "FV", "overall": 86, "offense": 87, "defense": 58},
-    {"name": "LW", "position": "FV", "overall": 85, "offense": 86, "defense": 55},
-    {"name": "ST", "position": "FV", "overall": 87, "offense": 90, "defense": 48}
+    {"name": "David Raya", "position": "KL", "overall": 86, "offense": 38, "defense": 86},
+    {"name": "J. Timber", "position": "DF", "overall": 84, "offense": 77, "defense": 83},
+    {"name": "W. Saliba", "position": "DF", "overall": 85, "offense": 62, "defense": 86},
+    {"name": "J. Kiwior", "position": "DF", "overall": 84, "offense": 64, "defense": 85},
+    {"name": "M. Lewis-Skelly", "position": "DF", "overall": 83, "offense": 78, "defense": 82},
+    {"name": "T. Partey", "position": "OS", "overall": 85, "offense": 78, "defense": 86},
+    {"name": "M. Ødegaard", "position": "OS", "overall": 87, "offense": 88, "defense": 75},
+    {"name": "D. Rice", "position": "OS", "overall": 86, "offense": 87, "defense": 77},
+    {"name": "B. Saka", "position": "FV", "overall": 86, "offense": 87, "defense": 58},
+    {"name": "Gabriel Martinelli", "position": "FV", "overall": 85, "offense": 86, "defense": 55},
+    {"name": "L. Trossard", "position": "FV", "overall": 87, "offense": 90, "defense": 48}
   ],
   "Leverkusen": [
     {"name": "GK", "position": "KL", "overall": 86, "offense": 38, "defense": 86},
