@@ -78,7 +78,7 @@
     {"name": "D. Doué", "position": "FV", "overall": 93, "offense": 96, "defense": 50}
   ],
   "Internazionale": [
-    {"name": "GK", "position": "KL", "overall": 89, "offense": 40, "defense": 90},
+    {"name": "Y. Sommer", "position": "KL", "overall": 89, "offense": 40, "defense": 90},
     {"name": "RB", "position": "DF", "overall": 86, "offense": 80, "defense": 85},
     {"name": "CB1", "position": "DF", "overall": 88, "offense": 65, "defense": 90},
     {"name": "CB2", "position": "DF", "overall": 87, "offense": 68, "defense": 88},
@@ -92,16 +92,16 @@
   ],
   "Chelsea": [
     {"name": "Robert Sánchez", "position": "KL", "overall": 89, "offense": 40, "defense": 90},
-    {"name": "RB", "position": "DF", "overall": 86, "offense": 80, "defense": 85},
-    {"name": "CB1", "position": "DF", "overall": 88, "offense": 65, "defense": 90},
-    {"name": "CB2", "position": "DF", "overall": 87, "offense": 68, "defense": 88},
-    {"name": "LB", "position": "DF", "overall": 85, "offense": 79, "defense": 84},
-    {"name": "CDM", "position": "OS", "overall": 88, "offense": 82, "defense": 89},
-    {"name": "CM1", "position": "OS", "overall": 90, "offense": 91, "defense": 78},
-    {"name": "CM2", "position": "OS", "overall": 92, "offense": 93, "defense": 80},
-    {"name": "RW", "position": "FV", "overall": 88, "offense": 89, "defense": 60},
-    {"name": "LW", "position": "FV", "overall": 89, "offense": 90, "defense": 58},
-    {"name": "ST", "position": "FV", "overall": 93, "offense": 96, "defense": 50}
+    {"name": "M. Gusto", "position": "DF", "overall": 86, "offense": 80, "defense": 85},
+    {"name": "T. Chalobah", "position": "DF", "overall": 88, "offense": 65, "defense": 90},
+    {"name": "L. Colwill", "position": "DF", "overall": 87, "offense": 68, "defense": 88},
+    {"name": "Marc Cucurella", "position": "DF", "overall": 85, "offense": 79, "defense": 84},
+    {"name": "CM. Caicedo", "position": "OS", "overall": 88, "offense": 82, "defense": 89},
+    {"name": "E. Fernández", "position": "OS", "overall": 90, "offense": 91, "defense": 78},
+    {"name": "C. Palmer", "position": "OS", "overall": 92, "offense": 93, "defense": 80},
+    {"name": "N. Madueke", "position": "FV", "overall": 88, "offense": 89, "defense": 60},
+    {"name": "Pedro Neto", "position": "FV", "overall": 89, "offense": 90, "defense": 58},
+    {"name": "N. Jackson", "position": "FV", "overall": 93, "offense": 96, "defense": 50}
   ],
   "Dortmund": [
     {"name": "GK", "position": "KL", "overall": 89, "offense": 40, "defense": 90},
