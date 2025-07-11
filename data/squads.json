@@ -65,17 +65,17 @@
     {"name": "D. Núñez", "position": "FV", "overall": 93, "offense": 96, "defense": 50}
   ],
   "Paris SG": [
-    {"name": "GK", "position": "KL", "overall": 89, "offense": 40, "defense": 90},
-    {"name": "RB", "position": "DF", "overall": 86, "offense": 80, "defense": 85},
-    {"name": "CB1", "position": "DF", "overall": 88, "offense": 65, "defense": 90},
-    {"name": "CB2", "position": "DF", "overall": 87, "offense": 68, "defense": 88},
-    {"name": "LB", "position": "DF", "overall": 85, "offense": 79, "defense": 84},
-    {"name": "CDM", "position": "OS", "overall": 88, "offense": 82, "defense": 89},
-    {"name": "CM1", "position": "OS", "overall": 90, "offense": 91, "defense": 78},
-    {"name": "CM2", "position": "OS", "overall": 92, "offense": 93, "defense": 80},
-    {"name": "RW", "position": "FV", "overall": 88, "offense": 89, "defense": 60},
-    {"name": "LW", "position": "FV", "overall": 89, "offense": 90, "defense": 58},
-    {"name": "ST", "position": "FV", "overall": 93, "offense": 96, "defense": 50}
+    {"name": "G. Donnarumma", "position": "KL", "overall": 89, "offense": 40, "defense": 90},
+    {"name": "A. Hakimi", "position": "DF", "overall": 86, "offense": 80, "defense": 85},
+    {"name": "Marquinhos", "position": "DF", "overall": 88, "offense": 65, "defense": 90},
+    {"name": "W. Pacho", "position": "DF", "overall": 87, "offense": 68, "defense": 88},
+    {"name": "Nuno Mendes", "position": "DF", "overall": 85, "offense": 79, "defense": 84},
+    {"name": "João Neves", "position": "OS", "overall": 88, "offense": 82, "defense": 89},
+    {"name": "Vitinha", "position": "OS", "overall": 90, "offense": 91, "defense": 78},
+    {"name": "Fabián Ruiz", "position": "OS", "overall": 92, "offense": 93, "defense": 80},
+    {"name": "O. Dembélé", "position": "FV", "overall": 88, "offense": 89, "defense": 60},
+    {"name": "K. Kvaratskhelia", "position": "FV", "overall": 89, "offense": 90, "defense": 58},
+    {"name": "D. Doué", "position": "FV", "overall": 93, "offense": 96, "defense": 50}
   ],
   "Internazionale": [
     {"name": "GK", "position": "KL", "overall": 89, "offense": 40, "defense": 90},
