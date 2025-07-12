@@ -300,43 +300,43 @@
     {"name": "V. Gyökeres", "position": "FV", "overall": 88, "offense": 87, "defense": 45}
   ],
   "Olympiacos": [
-    {"name": "K. Tzolakis", "position": "KL", "overall": 83, "offense": 35, "defense": 83},
-    {"name": "Rodinei", "position": "DF", "overall": 81, "offense": 74, "defense": 80},
-    {"name": "P. Retsos", "position": "DF", "overall": 82, "offense": 60, "defense": 83},
-    {"name": "David Carmo", "position": "DF", "overall": 81, "offense": 62, "defense": 82},
-    {"name": "F. Ortega", "position": "DF", "overall": 80, "offense": 75, "defense": 79},
-    {"name": "S. Hezze", "position": "OS", "overall": 82, "offense": 75, "defense": 83},
-    {"name": "C. Mouzakitis", "position": "OS", "overall": 84, "offense": 85, "defense": 72},
-    {"name": "C. Kostoulas", "position": "OS", "overall": 83, "offense": 84, "defense": 74},
-    {"name": "Chiquinho", "position": "FV", "overall": 83, "offense": 84, "defense": 55},
-    {"name": "Gelson Martins", "position": "FV", "overall": 82, "offense": 83, "defense": 52},
-    {"name": "A. El Kaabi", "position": "FV", "overall": 84, "offense": 87, "defense": 45}
+    {"name": "K. Tzolakis", "position": "KL", "overall": 78, "offense": 35, "defense": 83},
+    {"name": "Rodinei", "position": "DF", "overall": 78, "offense": 74, "defense": 80},
+    {"name": "P. Retsos", "position": "DF", "overall": 77, "offense": 60, "defense": 83},
+    {"name": "David Carmo", "position": "DF", "overall": 77, "offense": 62, "defense": 82},
+    {"name": "F. Ortega", "position": "DF", "overall": 74, "offense": 75, "defense": 79},
+    {"name": "S. Hezze", "position": "OS", "overall": 77, "offense": 75, "defense": 83},
+    {"name": "C. Mouzakitis", "position": "OS", "overall": 71, "offense": 85, "defense": 72},
+    {"name": "C. Kostoulas", "position": "OS", "overall": 73, "offense": 84, "defense": 74},
+    {"name": "Chiquinho", "position": "FV", "overall": 78, "offense": 84, "defense": 55},
+    {"name": "Gelson Martins", "position": "FV", "overall": 78, "offense": 83, "defense": 52},
+    {"name": "A. El Kaabi", "position": "FV", "overall": 79, "offense": 87, "defense": 45}
   ],
   "Slavia": [
-    {"name": "J. Staněk", "position": "KL", "overall": 83, "offense": 35, "defense": 83},
-    {"name": "T. Holeš", "position": "DF", "overall": 81, "offense": 74, "defense": 80},
-    {"name": "I. Ogbu", "position": "DF", "overall": 82, "offense": 60, "defense": 83},
-    {"name": "J. Bořil", "position": "DF", "overall": 81, "offense": 62, "defense": 82},
-    {"name": "D. Douděra", "position": "OS", "overall": 80, "offense": 75, "defense": 79},
-    {"name": "C. Zafeiris", "position": "OS", "overall": 82, "offense": 75, "defense": 83},
-    {"name": "O. Dorley", "position": "OS", "overall": 84, "offense": 85, "defense": 72},
-    {"name": "L. Provod", "position": "OS", "overall": 83, "offense": 84, "defense": 74},
-    {"name": "D. Douděra", "position": "OS", "overall": 83, "offense": 84, "defense": 55},
-    {"name": "E. Diouf", "position": "OS", "overall": 82, "offense": 83, "defense": 52},
-    {"name": "T. Chorý", "position": "FV", "overall": 84, "offense": 87, "defense": 45}
+    {"name": "J. Staněk", "position": "KL", "overall": 76, "offense": 35, "defense": 83},
+    {"name": "T. Holeš", "position": "DF", "overall": 76, "offense": 74, "defense": 80},
+    {"name": "I. Ogbu", "position": "DF", "overall": 74, "offense": 60, "defense": 83},
+    {"name": "J. Bořil", "position": "DF", "overall": 74, "offense": 62, "defense": 82},
+    {"name": "D. Douděra", "position": "OS", "overall": 74, "offense": 75, "defense": 79},
+    {"name": "C. Zafeiris", "position": "OS", "overall": 77, "offense": 75, "defense": 83},
+    {"name": "O. Dorley", "position": "OS", "overall": 78, "offense": 85, "defense": 72},
+    {"name": "L. Provod", "position": "OS", "overall": 78, "offense": 84, "defense": 74},
+    {"name": "D. Douděra", "position": "OS", "overall": 74, "offense": 84, "defense": 55},
+    {"name": "E. Diouf", "position": "OS", "overall": 75, "offense": 83, "defense": 52},
+    {"name": "T. Chorý", "position": "FV", "overall": 75, "offense": 87, "defense": 45}
   ],
   "Bodø/Glimt": [
-    {"name": "N. Haikin", "position": "KL", "overall": 83, "offense": 35, "defense": 83},
-    {"name": "F. Sjøvold", "position": "DF", "overall": 81, "offense": 74, "defense": 80},
-    {"name": "O. Bjørtuft", "position": "DF", "overall": 82, "offense": 60, "defense": 83},
-    {"name": "J. Gundersen", "position": "DF", "overall": 81, "offense": 62, "defense": 82},
-    {"name": "F. Bjørkan", "position": "DF", "overall": 80, "offense": 75, "defense": 79},
-    {"name": "P. Berg", "position": "OS", "overall": 82, "offense": 75, "defense": 83},
-    {"name": "U. Saltnes", "position": "OS", "overall": 84, "offense": 85, "defense": 72},
-    {"name": "H. Evjen", "position": "OS", "overall": 83, "offense": 84, "defense": 74},
+    {"name": "N. Haikin", "position": "KL", "overall": 73, "offense": 35, "defense": 83},
+    {"name": "F. Sjøvold", "position": "DF", "overall": 69, "offense": 74, "defense": 80},
+    {"name": "O. Bjørtuft", "position": "DF", "overall": 69, "offense": 60, "defense": 83},
+    {"name": "J. Gundersen", "position": "DF", "overall": 70, "offense": 62, "defense": 82},
+    {"name": "F. Bjørkan", "position": "DF", "overall": 73, "offense": 75, "defense": 79},
+    {"name": "P. Berg", "position": "OS", "overall": 77, "offense": 75, "defense": 83},
+    {"name": "U. Saltnes", "position": "OS", "overall": 72, "offense": 85, "defense": 72},
+    {"name": "H. Evjen", "position": "OS", "overall": 73, "offense": 84, "defense": 74},
     {"name": "O. Blomberg", "position": "FV", "overall": 83, "offense": 84, "defense": 55},
-    {"name": "J. Hauge", "position": "FV", "overall": 82, "offense": 83, "defense": 52},
-    {"name": "K. Høgh", "position": "FV", "overall": 84, "offense": 87, "defense": 45}
+    {"name": "J. Hauge", "position": "FV", "overall": 70, "offense": 83, "defense": 52},
+    {"name": "K. Høgh", "position": "FV", "overall": 69, "offense": 87, "defense": 45}
   ],
   "Marseille": [
     {"name": "G. Rulli", "position": "KL", "overall": 81, "offense": 35, "defense": 83},
@@ -362,7 +362,7 @@
     {"name": "M. Mattsson", "position": "OS", "overall": 79, "offense": 80, "defense": 70},
     {"name": "J. Larsson", "position": "FV", "overall": 79, "offense": 80, "defense": 52},
     {"name": "Robert", "position": "FV", "overall": 78, "offense": 79, "defense": 50},
-    {"name": "A. Cornelius", "position": "FV", "overall": 80, "offense": 83, "defense": 42}
+    {"name": "A. Cornelius", "position": "FV", "overall": 79, "offense": 83, "defense": 42}
   ],
   "Crvena zvezda": [
     {"name": "M. Borjan", "position": "KL", "overall": 79, "offense": 32, "defense": 79},
@@ -391,17 +391,17 @@
     {"name": "B. Embolo", "position": "FV", "overall": 79, "offense": 83, "defense": 42}
   ],
   "Ferencváros": [
-    {"name": "D. Dibusz", "position": "KL", "overall": 79, "offense": 32, "defense": 79},
-    {"name": "C. Makreckis", "position": "DF", "overall": 77, "offense": 70, "defense": 76},
-    {"name": "I. Cissé", "position": "DF", "overall": 78, "offense": 58, "defense": 79},
-    {"name": "S. Gartenmann", "position": "DF", "overall": 77, "offense": 60, "defense": 78},
-    {"name": "C. Ramírez", "position": "DF", "overall": 76, "offense": 72, "defense": 75},
-    {"name": "P. Rommens", "position": "OS", "overall": 78, "offense": 72, "defense": 79},
-    {"name": "M. Abu Fani", "position": "OS", "overall": 80, "offense": 81, "defense": 68},
-    {"name": "K. Zachariassen", "position": "OS", "overall": 79, "offense": 80, "defense": 70},
-    {"name": "A. Traoré", "position": "FV", "overall": 79, "offense": 80, "defense": 52},
-    {"name": "M. Ben Romdhane", "position": "FV", "overall": 78, "offense": 79, "defense": 50},
-    {"name": "B. Varga", "position": "FV", "overall": 80, "offense": 83, "defense": 42}
+    {"name": "D. Dibusz", "position": "KL", "overall": 78, "offense": 32, "defense": 79},
+    {"name": "C. Makreckis", "position": "DF", "overall": 72, "offense": 70, "defense": 76},
+    {"name": "I. Cissé", "position": "DF", "overall": 72, "offense": 58, "defense": 79},
+    {"name": "S. Gartenmann", "position": "DF", "overall": 71, "offense": 60, "defense": 78},
+    {"name": "C. Ramírez", "position": "DF", "overall": 73, "offense": 72, "defense": 75},
+    {"name": "P. Rommens", "position": "OS", "overall": 70, "offense": 72, "defense": 79},
+    {"name": "M. Abu Fani", "position": "OS", "overall": 74, "offense": 81, "defense": 68},
+    {"name": "K. Zachariassen", "position": "OS", "overall": 74, "offense": 80, "defense": 70},
+    {"name": "A. Traoré", "position": "FV", "overall": 73, "offense": 80, "defense": 52},
+    {"name": "M. Ben Romdhane", "position": "FV", "overall": 73, "offense": 79, "defense": 50},
+    {"name": "B. Varga", "position": "FV", "overall": 75, "offense": 83, "defense": 42}
   ],
   "Celtic": [
     {"name": "K. Schmeichel", "position": "KL", "overall": 79, "offense": 32, "defense": 79},
